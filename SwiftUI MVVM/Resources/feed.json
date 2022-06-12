@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Activity",
+        "id":1,
+		"text":"Cycling, swimming, football, running.",
+		"imageName":"sun.max.fill"
+    },
+	{
+		"name":"Meals",
+		"id":2,
+		"text":"Meat, bread, vegetables, cheese, water, juice, wine and potatoes.",
+		"imageName":"leaf.fill"
+	},
+	{
+		"name":"social",
+		"id":3,
+		"text":"Tabletop games with friends, date in restaurant, cinema",
+		"imageName":"person.fill"
+	}
+]
